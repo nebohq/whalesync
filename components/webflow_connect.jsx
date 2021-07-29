@@ -4,7 +4,7 @@ import {Card, Button} from 'react-bootstrap';
 export default function WebflowConnect() {
   return (
     <Card className="p-5">
-      <h5 class="text-center">Connect Webflow</h5>
+      <h5 className="text-center">Connect Webflow</h5>
 
       <p style={{'font-size': '12px'}}>
         Link to your webflow account <br/>
