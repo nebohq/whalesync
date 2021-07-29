@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nebohq/nebo": "^0.0.61",
+    "@nebohq/plugin": "^0.0.1",
+    "bootstrap": "5.0.2",
     "next": "11.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-bootstrap": "^2.0.0-beta.4",
+    "react-dom": "17.0.2",
+    "sass": "^1.36.0"
   },
   "devDependencies": {
     "eslint": "7.31.0",

@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <NeboComponent slug='test' />
+        <NeboComponent slug='dashboard' />
       </main>
     </div>
   )
